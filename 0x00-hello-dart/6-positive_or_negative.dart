@@ -10,6 +10,6 @@ void main(List<String> args) {
       print("${number} is negative");
     }
     else {
-      print("${number} is zero")
+      print("${number} is zero");
     }
 }
